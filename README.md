@@ -2,6 +2,6 @@
 
 This repository holds some of the cryptography software that has been submitted as Project 2 by past cs6903 students.  
 
-* [Blockchain Implemenation](projects/)
+* [Blockchain Implemenation](projects/Jin-Soumya-Zu)
 * [Shamir Secret Sharing](projects/)
 
